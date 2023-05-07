@@ -1,4 +1,4 @@
-## CPNT 200 - Final Group Project
+## Group Project
 
 ## Project Contributors:
 
